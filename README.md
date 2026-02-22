@@ -1,16 +1,16 @@
 # Hr-Analytics
-# 📊 HR Data Analysis & Power BI Dashboard
+#  HR Data Analysis & Power BI Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing HR data to uncover insights related to employee distribution, salary trends, hiring patterns, department performance, and attrition.  
 
 The project includes both:
-- 🐍 Python-based Exploratory Data Analysis (EDA)
-- 📊 Interactive Power BI Dashboard
+- Python-based Exploratory Data Analysis (EDA)
+- 📊Interactive Power BI Dashboard
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Analyze employee distribution across departments
 - Study salary trends by department and job title
 - Evaluate performance ratings
@@ -20,7 +20,7 @@ The project includes both:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -30,7 +30,7 @@ The project includes both:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 The dataset contains HR-related information such as:
 - Employee ID
 - Department
@@ -44,7 +44,7 @@ The dataset contains HR-related information such as:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 1. Data Cleaning & Preprocessing  
 2. Exploratory Data Analysis (EDA)  
 3. Data Visualization  
@@ -54,13 +54,17 @@ The dataset contains HR-related information such as:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - IT department has the highest employee count
 - IT Managers and Finance Managers earn higher average salaries
 - Sales & IT show higher resignation counts
 - Hiring trend increased significantly after 2020
 - Remote and On-site salaries show minimal variation
+##  Full Dataset
 
+Due to GitHub file size limits, the full dataset is hosted externally:
+
+🔗 Download here:https://docs.google.com/spreadsheets/d/1dxs0xaBAkzBpKBTMQeic8JlfQGnkDzG4/edit?usp=drive_link&ouid=109182456190720934774&rtpof=true&sd=true
 ---
 
 📊 Power BI Dashboard
