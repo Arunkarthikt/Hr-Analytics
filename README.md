@@ -63,13 +63,13 @@ The dataset contains HR-related information such as:
 
 ---
 
-## 📊 Power BI Dashboard
-(Add your dashboard screenshots here)
+📊 Power BI Dashboard
 
-Example:
-![Dashboard Preview](dashboard_image.png)
+Due to GitHub file size limits, the Power BI (.pbix) file is hosted externally.
 
----
+🔗 **Download Power BI File:**  
+[Download HR Dashboard (.pbix)](https://drive.google.com/file/d/1iDCBflgmkp6PtRgEfpnKXePTCH-KM8Y0/view?usp=sharing)
+
 
 ## ▶️ How to Run the Project
 
