@@ -60,12 +60,6 @@ The dataset contains HR-related information such as:
 - Sales & IT show higher resignation counts
 - Hiring trend increased significantly after 2020
 - Remote and On-site salaries show minimal variation
-##  Full Dataset
-
-Due to GitHub file size limits, the full dataset is hosted externally:
-
-🔗 Download here:https://docs.google.com/spreadsheets/d/1dxs0xaBAkzBpKBTMQeic8JlfQGnkDzG4/edit?usp=drive_link&ouid=109182456190720934774&rtpof=true&sd=true
----
 
 📊 Power BI Dashboard
 
